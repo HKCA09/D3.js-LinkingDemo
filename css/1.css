@@ -1,0 +1,56 @@
+.container {
+	width: 1400px;
+	margin: 30px;
+	padding: 20px;
+	font-family: "微软雅黑";
+	background-color: #f2fbff;
+	box-shadow: 0 0 20px #001062;
+}
+
+h2{
+	text-align: center;
+}
+.header{
+	float:right;
+	font-size: 16px;
+	font-weight: 500;
+	margin-right: 20px;
+}
+a{
+	margin-left: 20px;
+	color: #5500a4;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	color: #feb977;
+}
+a:visited{
+	color: #5500a4;
+}
+
+body {
+	background-color: #f0f7ff;
+	font-family: "微软雅黑";
+	font-size:20px;
+
+}
+
+
+#area1 {
+	display: inline-block;
+	background-color: #f2fbff;
+}
+
+footer{
+	margin-top: 20px;
+}
+p{
+	text-align: center;
+	margin-top: 10px;
+	color: dimgray;
+	font-family: "隶书";
+	font-size: 18px;
+}
+

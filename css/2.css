@@ -1,0 +1,109 @@
+h2{
+	text-align: center;
+	margin-top: 30px;
+	font-size: 36px;
+}
+.header{
+	float:right;
+	font-size: 16px;
+	font-weight: 500;
+	margin-right: 20px;
+}
+a{
+	margin-right: 20px;
+	color: #5500a4;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	color: #feb977;
+}
+a:visited{
+	color: #5500a4;
+}
+body { 
+    background-color: #f2fbff;
+    font-size: 12px;
+}
+
+#area2 {
+    min-width: 300px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+#area3 {
+    margin-top: 50px ;
+    margin-left: 100px;
+    float: left;
+}
+.news{
+	float: right;
+	margin-right: 400px;
+	margin-top:50px;
+}
+h3{
+	color: #0601b2;
+	font-size: 24px;
+	display: inline;
+}
+span{
+	font-size: 24px;
+	font-weight: bold;
+	color: darkred;
+	margin-right: 300px;
+}
+.container {
+	width: 460px;
+	margin: 10px;
+	padding: 5px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	background-color: #f2fbff;
+	border: 1px solid gray;
+}
+
+footer{
+	margin-top: 20px;
+}
+p{
+	text-align: center;
+	margin-top: 10px;
+	color: dimgray;
+	font-family: "隶书";
+	font-size: 18px;
+}
+
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #666;
+    shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke-width: 2.5px;
+}
+.line:hover {
+    fill: none;
+    stroke-width: 4px;
+}
+
+#line-Highlight {
+    stroke-width: 2.5px;
+}
+
+.baseline {
+    stroke: #666;
+}
+    
+.green {
+    fill: green;
+    font-size: 18px;
+}
+    
+.red {
+    fill: red;
+    font-size: 18px;
+}
