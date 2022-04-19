@@ -1,4 +1,4 @@
-# D3.js
+# D3.js-LinkingDemo
 
 一个关于D3.js的Demo  
 是 [bilibili-【伪教程向】如何修改一个D3.js案例 数据可视化自学](https://www.bilibili.com/video/BV1Vv41167iX?spm_id_from=333.999.0.0) 视频中的例子  
